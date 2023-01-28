@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hello there, I am @KingDecorpel12.
 
 
-I am an aspiring software developer who is most familiar with Swift ( along with some C++ ).
+I am an aspiring software developer who is most familiar with Swift ( along with some C++ ). I also have made a VR application with a group utilizing Unity and C#.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingDecorpel12)](https://github.com/KingDecorpel12/github-readme-stats)
 

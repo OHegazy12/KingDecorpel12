@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there, I am @KingDecorpel12.
+Hello there, I am Omar Hegazy.
 
+Pronouns: He/Him
 
 I am an aspiring software developer who is most familiar with Swift ( along with some C++ ). I also have made a VR application with a group utilizing Unity and C#.
+
+Would love to collaborate on projects with people in the future!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingDecorpel12)](https://github.com/KingDecorpel12/github-readme-stats)
 
